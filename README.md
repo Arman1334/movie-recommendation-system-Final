@@ -1,9 +1,9 @@
 # movie-recommendation-system-Final
-# Movie Recommendation System 🎬
+# Movie Recommendation System 
 
 This project is a machine learning-based Movie Recommendation System developed as part of my final year project at the University of Westminster. It uses collaborative filtering and matrix factorization techniques to recommend movies based on user preferences.
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this system is to understand how platforms like Netflix and Amazon Prime suggest relevant movies and shows to their users using recommendation algorithms.
 
@@ -12,7 +12,7 @@ The project explores:
 - Matrix factorization using Singular Value Decomposition (SVD)
 - Web app deployment using Streamlit
 
-## 📊 Dataset
+##  Dataset
 
 We used the **MovieLens 1M Dataset**, which includes:
 - 1,000,209 anonymous ratings
@@ -21,14 +21,14 @@ We used the **MovieLens 1M Dataset**, which includes:
 
 Dataset Source: [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/)
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Python 3.12**
 - **Google Colab** for development
 - **Pandas**, **NumPy**, **Scikit-learn**, **Surprise** library for model building
 - **Streamlit** for building the front-end app
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 ### Option 1: Streamlit (Local)
  # Run streamlit run "E:\Data Science Project Arman Somai Devyani\ml-1m\apps.py"
